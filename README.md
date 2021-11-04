@@ -26,7 +26,7 @@
 ## Languages and Tools
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ElzioLima&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=ElzioLima&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzioLima&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzioLima&theme=tokyonight
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzioLima&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=ElzioLima&theme=tokyonight)
 
 - Thanks for visiting.
 
