@@ -7,13 +7,13 @@
 
  
 
-:computer: I'm Back-End Developer!
+:computer: I'm Developer!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create news project and find news job.
+:outbox_tray: Goals: create news project and find news challenges.
 
  
 
