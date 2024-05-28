@@ -1,9 +1,9 @@
 
-# Welcome!
+# Be Welcome!
 
  
 
-## I'm Elzio Lima!
+# I'm Elzio Lima - Software Developer
 
  
 
